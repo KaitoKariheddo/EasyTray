@@ -24,3 +24,13 @@ Name function **testFunktion**
         YOUR CODE
 ```
 
+## Examples
+```
+    import os
+    import subprocess
+    ...
+    # in def Function() 
+    os.system(command)
+    # or.. for starting a script
+    subprocess.run(["path/to/script", "arguments"], shell=True)
+```
