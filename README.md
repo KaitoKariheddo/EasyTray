@@ -1,0 +1,2 @@
+# EasyTray
+Simple Tray Menu
