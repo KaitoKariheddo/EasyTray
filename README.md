@@ -4,7 +4,7 @@ Simple Tray Menu in Python
 Inspired by [candidtim](https://candidtim.github.io/appindicator/2014/09/13/ubuntu-appindicator-step-by-step.html)
 
 ## Dependencies
-`sudo pacman -S python gobject-introspection gtk3 libnotify`
+`sudo pacman -S python gobject-introspection gtk3 libnotify libappindicator-gtk3`
 
 ## Add Entry:
 ```
